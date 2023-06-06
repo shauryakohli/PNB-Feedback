@@ -1,1 +1,1 @@
-# PNB-Feedback
+This is a Natural Language Processing Sentiment Analysis Model which gathers data about feebdback of Punjab National Bank Housing Finance Ltd from online sources and helps to get a detailed analysis about the sentiment view of the customer i.e the number of positive,neutral and negative views gathered along with graphical reprentation of the frequency of different words found in the reviews along with customer ratings
